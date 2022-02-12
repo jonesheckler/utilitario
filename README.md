@@ -23,13 +23,13 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Install Project
 
-composer install
-npm install
-npm run dev
+- composer install
+- npm install
+- npm run dev
 
 configure the file .env
 
-php artisan migrate:fresh --seed
+- php artisan migrate:fresh --seed
 
 ## License
 
